@@ -3,7 +3,7 @@ import './Hero.css'
 import Header from '../Header/Header'
 import hero_image from './../../assets/hero_image.png'
 import hero_image_back from './../../assets/hero_image_back.png'
-import Heart from './../../assets/Heart.png'
+import Heart from './../../assets/heart.png'
 import Calories from './../../assets/Calories.png'
 import {motion} from "motion/react"
 import CountUp from 'react-countup';
