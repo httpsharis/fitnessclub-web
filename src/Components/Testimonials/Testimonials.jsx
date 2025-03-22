@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './testimonials.css'
+import './Testimonials.css'
 import { testimonialsData } from '../../data/testimonialsData'
 import leftArrow from './../../assets/leftArrow.png'
 import RightArrow from './../../assets/RightArrow.png'
